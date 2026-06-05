@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://marketraai.com/sitemap.xml
